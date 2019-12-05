@@ -12,7 +12,7 @@ Have studied in Chinese Academic of Science, National Space Science Center.
 _Location: Shanghai, China._
 
 Having poor skill in everything, and so eager to improve myself. 
-+ Java Back end engineer
++ Java back end engineer
  
 ## Something i want to do
 No matter what you want to know from me, life or work, whatever, just say to me because i'm your true listener.
